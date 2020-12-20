@@ -5,23 +5,6 @@
   <p><strong>The OHIF Viewer</strong> is a zero-footprint medical image viewer provided by the Open Health Imaging Foundation (OHIF).</p>
 </div>
 
-
-
-<hr />
-
-[![NPM version][npm-version-image]][npm-url]
-[![NPM downloads][npm-downloads-image]][npm-url]
-[![Pulls][docker-pulls-img]][docker-image-url]
-[![MIT License][license-image]][license-url]
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FOHIF%2FViewers.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FOHIF%2FViewers?ref=badge_shield)
-
-[![Netlify Status][netlify-image]][netlify-url]
-[![CircleCI][circleci-image]][circleci-url]
-[![codecov][codecov-image]][codecov-url]
-[![This project is using Percy.io for visual regression testing.][percy-image]](percy-url)
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors)
-<!-- prettier-ignore-end -->
-
 ## About
 
 The OHIF Medical Imaging Viewer is for viewing medical images. It can retrieve
